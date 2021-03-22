@@ -1,0 +1,27 @@
+{
+    "title": "Almost Friends",
+    "description": "One is a rabbit girl with a congenital defect, and the other is a fox girl that's super popular but has a lonely heart. Despite their differences, they are each other's precious 'The Other Me in This World'. When they meet, a story of mutual healing and mutual growth begins...",
+    "artist": "黄二爷",
+    "author": "黄二爷",
+    "cover": "<optional, str>",
+    "chapters": {
+        "1": {
+            "title": "<required, str>",
+            "volume": "<optional, str>",
+            "groups": {
+                "<group name>": "<proxy url>",
+                OR
+                "<group name>": [
+                    "<url to page 1>",
+                    "<url to page 2>",
+                    ...
+                ]
+            },
+            "last_updated": "<optional, unix timestamp>",
+        },
+        "2": {
+            ...
+        },
+        ...
+    }
+}
