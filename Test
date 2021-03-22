@@ -11,6 +11,7 @@
             "groups": {
                 "Quicksilver Scans| Paint's Shenanigans": "<proxy url>"
             }
+        }
         "2": {
             ...
         },
