@@ -5,20 +5,12 @@
     "author": "黄二爷",
     "cover": "<optional, str>",
     "chapters": {
-        "1": {
-            "title": "<required, str>",
-            "volume": "<optional, str>",
+        "5": {
+            "title": "Rose",
+            "volume": "5",
             "groups": {
-                "<group name>": "<proxy url>",
-                OR
-                "<group name>": [
-                    "<url to page 1>",
-                    "<url to page 2>",
-                    ...
-                ]
-            },
-            "last_updated": "<optional, unix timestamp>",
-        },
+                "Quicksilver Scans| Paint's Shenanigans": "<proxy url>"
+            }
         "2": {
             ...
         },
