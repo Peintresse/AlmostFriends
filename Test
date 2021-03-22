@@ -5,19 +5,19 @@
     "author": "黄二爷",
     "cover": "https://i.fiery.me/6GwdW.jpg",
     "chapters": {
-       "0": {
+        "0": {
             "title": "The Story of Two Young Girls",
             "volume": "1",
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/IcQ3Rq1/"
-       }, 
-       "1": {
+        }, 
+        "1": {
             "title": "A Forcibly Revealed Secret",
             "volume": "1",
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/4mP4owk/"
-       },
-       "2": {
+        },
+        "2": {
             "title": "The Rain and Her Tears",
             "volume": "1",
             "groups": {
@@ -49,6 +49,6 @@
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/NuTbD9W/"
             }
-       }
+        }
     }
 }
