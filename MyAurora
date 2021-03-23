@@ -6,18 +6,18 @@
     "cover": "https://i.fiery.me/jPiAD.jpg",
     "chapters": {
         "1": {
-            "title": "A Forcibly Revealed Secret",
+            "title": "God's Curse",
             "volume": "1",
             "groups": {
-                "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/4mP4owk/"
+                "Quicksilver Scans": "/proxy/api/imgur/chapter/4mP4owk/"
                  },
                  "last_updated": "1613883600"
         },
         "2": {
-            "title": "The Rain and Her Tears",
+            "title": "Please Save Grandma!",
             "volume": "1",
             "groups": {
-                "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/0s1WoVi/"
+                "Quicksilver Scans": "/proxy/api/imgur/chapter/0s1WoVi/"
                  },
                  "last_updated": "1614229200"
         }
