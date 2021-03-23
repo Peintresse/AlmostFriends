@@ -10,42 +10,48 @@
             "volume": "1",
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/IcQ3Rq1/"
-                }
+                },
+                "last_updated": "1613797200",
         }, 
         "1": {
             "title": "A Forcibly Revealed Secret",
             "volume": "1",
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/4mP4owk/"
-                 }
+                 },
+                 "last_updated": "1613883600",
         },
         "2": {
             "title": "The Rain and Her Tears",
             "volume": "1",
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/0s1WoVi/"
-                 }
+                 },
+                 "last_updated": "1614229200",
         },
         "3": {
             "title": "A Guilty Conscience",
             "volume": "1",
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/N8Arwdx/"
-                 }
+                 },
+                 "last_updated": "1614661200",
         },
         "4": {
             "title": "The Scenery that Can't Be Seen",
             "volume": "1",
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/TE6SQal/"
-            }
+                 },
+                 "last_updated": "1615093200",
         },
         "5": {
             "title": "Rose",
             "volume": "1",
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/JjtNSfF/"
-            }
+            },
+            "last_updated": "1615953600",
         },
         "6": {
             "title": "Easy",
@@ -53,6 +59,7 @@
             "groups": {
                 "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/NuTbD9W/"
             }
+            "last_updated": "1616472000",
         }
     }
 }
