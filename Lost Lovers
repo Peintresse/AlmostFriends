@@ -116,6 +116,14 @@
                 "Quicksilver Scans": "/proxy/api/imgur/chapter/TV1uwbi"
                  },
                  "last_updated": "1617595200"
+                 },
+        "15": {
+            "title": "Return to the Start",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans": "/proxy/api/imgur/chapter//N29xUe1"
+                 },
+                 "last_updated": "1617595200"
         }
     }
 }
