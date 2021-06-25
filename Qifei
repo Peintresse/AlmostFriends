@@ -52,6 +52,22 @@
                 "Quicksilver Scans": "/proxy/api/imgur/chapter/9WRVd2Y/"
                  },
                  "last_updated": "1623559758"
+                  },
+        "7": {
+            "title": "Not-so-hidden Hopes",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans": "/proxy/api/imgur/chapter/dXnpmXl/"
+                 },
+                 "last_updated": "1624602535"
+                  },
+        "8": {
+            "title": "I Finally Said It!",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans": "/proxy/api/imgur/chapter/pTVLkFT/"
+                 },
+                 "last_updated": "1624602535"
         }
     }
 }
