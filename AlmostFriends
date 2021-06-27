@@ -183,5 +183,14 @@
             },
             "last_updated": "1624409950"
         }
+             },
+        "22": {
+            "title": "Look Around",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans | Paint's Shenanigans": "/proxy/api/imgur/chapter/CPJMxGJ/"
+            },
+            "last_updated": "1624837033"
+        }
     }
 }
