@@ -20,6 +20,21 @@
                 "Quicksilver Scans": "/proxy/api/imgur/chapter/Fy2ZYQi/"
                  },
                  "last_updated": "1623559758"
-        }
+        },
+        "2": {
+            "title": "Big Company, Big Production",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans": "/proxy/api/imgur/chapter/PYXalbv/"
+                 },
+                 "last_updated": "1622740264"
+        },
+        "3": {
+            "title": "New Member",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans": "/proxy/api/imgur/chapter/D3447Pl/"
+                 },
+                 "last_updated": "1623559758"
     }
 }
