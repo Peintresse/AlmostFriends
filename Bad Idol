@@ -27,7 +27,7 @@
             "groups": {
                 "Quicksilver Scans": "/proxy/api/imgur/chapter/PYXalbv/"
                  },
-                 "last_updated": "1622740264"
+                 "last_updated": "1625275369"
         },
         "3": {
             "title": "New Member",
@@ -35,6 +35,7 @@
             "groups": {
                 "Quicksilver Scans": "/proxy/api/imgur/chapter/D3447Pl/"
                  },
-                 "last_updated": "1623559758"
+                 "last_updated": "1625275369"
+        }         
     }
 }
