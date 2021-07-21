@@ -36,6 +36,22 @@
                 "Quicksilver Scans": "/proxy/api/imgur/chapter/D3447Pl/"
                  },
                  "last_updated": "1625275369"
+                  },
+        "4": {
+            "title": "Dance Lessons?",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans": "/proxy/api/imgur/chapter/qdfGMqn/"
+                 },
+                 "last_updated": "1626892627"
+                  },
+        "5": {
+            "title": "Soul Singer",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans": "/proxy/api/imgur/chapter/knP0n83/"
+                 },
+                 "last_updated": "1626892627"
         }         
     }
 }
