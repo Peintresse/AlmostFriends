@@ -60,6 +60,22 @@
                 "Quicksilver Scans": "/proxy/api/imgur/chapter/FmqWnW8/"
                  },
                  "last_updated": "1629227776"
+                  },
+        "7": {
+            "title": "Centre?",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans": "/proxy/api/imgur/chapter/lPiikh6/"
+                 },
+                 "last_updated": "1629683927"
+                  },
+        "8": {
+            "title": "Extra practice?",
+            "volume": "1",
+            "groups": {
+                "Quicksilver Scans": "/proxy/api/imgur/chapter/lifEnfA/"
+                 },
+                 "last_updated": "1629683927"
         }         
     }
 }
